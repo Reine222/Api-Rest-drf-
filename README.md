@@ -5,10 +5,9 @@ https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/
 
 # Comment ordonner les models exemple d'un projet Blog
 
-      -Catégories
-        - SousCatégories
-           - Des articles
-             - Commentaires
+      -Categorie
+           - Article
+             - Commentaire
 # Etape 1
 
        pip install djangorestframework
